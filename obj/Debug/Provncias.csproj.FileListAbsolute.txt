@@ -1,0 +1,10 @@
+C:\Users\raosp\source\repos\Provncias\Provncias\bin\Debug\Provncias.exe.config
+C:\Users\raosp\source\repos\Provncias\Provncias\bin\Debug\Provncias.exe
+C:\Users\raosp\source\repos\Provncias\Provncias\bin\Debug\Provncias.pdb
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.csprojAssemblyReference.cache
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.Form1.resources
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.Properties.Resources.resources
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.csproj.GenerateResource.cache
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.csproj.CoreCompileInputs.cache
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.exe
+C:\Users\raosp\source\repos\Provncias\Provncias\obj\Debug\Provncias.pdb
